@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    /* font-family: "Gilroy"; */
+}
+
+::selection {
+    color: hsl(60, 84%, 37%)
+}
